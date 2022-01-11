@@ -15,7 +15,7 @@
 
 ```./test.sh```
 
-##### Or you if are as lazy as me you can just try it out here:
+##### Or if you are as lazy as me you can just try it out here:
 [Test Workflow](https://github.com/lfj-s-kalikin/regulate/actions/workflows/test.yml)
 
 ![test workflow](https://github.com/lfj-s-kalikin/regulate/actions/workflows/test.yml/badge.svg)
